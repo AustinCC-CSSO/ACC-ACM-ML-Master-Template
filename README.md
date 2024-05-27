@@ -1,0 +1,2 @@
+# ACC-ACM-ML-Master-Template
+This is a master template to help you on building the foundation for the machine learning projects. The master template is open for peer reviews and anyone who is interested in learning machine learning is allowed to utilize the master template. The depth of the template is built on top of learning so it will constantly be updated to match the latest version, trend, and methods. To understand in depth, please check for free tutorials and find one that best suits your learning path.
